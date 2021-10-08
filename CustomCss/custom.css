@@ -1,0 +1,19 @@
+#video-ME-happy01{
+    margin: 10px auto;
+    display: block;
+}
+@media screen and (min-width:320px) and (max-width:1200){
+    #video-ME-happy01{
+        width: 100%;
+    }
+}
+@media screen and (min-width:1201px){
+    #video-ME-happy01{
+        width: 600px;
+    }
+}
+
+.markdown-body pre>code{
+    font-size: 1rem;
+}
+
